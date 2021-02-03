@@ -6,6 +6,7 @@ Code-along with [Coding Garden](https://coding.garden/).
 
 ## Playing The Game
 
-`yarn`
-
-`yarn start`
+```
+yarn
+yarn start
+```
